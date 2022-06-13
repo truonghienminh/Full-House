@@ -4,11 +4,11 @@ Thảo luận, đăng các bài giải về bài tập trên Full House. (C++ 05
     <h2>Nơi sưu tầm những lời giải của những thuật toán từ dễ đến khó.</h2>
 </div>
 
-# Những lưu ý
+# 📝 Những lưu ý
 - Không được phá code của người khác. Mọi chỉnh sửa đều phải ghi description lại để mọi người nắm bắt kịp.
 - Code không phải lúc nào cũng hoàn hảo, vì thế nếu bạn có thấy bug hay cần chỉnh gì thì đừng ngần ngại ý kiến nhé.
 
-# Ngôn ngữ lập trình
+# 💻 Ngôn ngữ lập trình
 <p align="left">
     <img src="https://camo.githubusercontent.com/04a68d28c34b095402af3f66b15a65b9802c0d7ffdfa813635f65a9dbb18c16e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67">
 </p>
