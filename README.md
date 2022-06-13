@@ -22,3 +22,8 @@ Thảo luận, đăng các bài giải về bài tập trên Full House. (C++ 05
 
 # 📄 Bảng mã ASCII (tham khảo)
 ![ASCII](https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/284107618_160544899787132_7874766274491894778_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=MyRgEssVVyIAX_5yOjS&tn=kwkkNiUiFboet1cO&_nc_ht=scontent.fsgn2-4.fna&oh=00_AT-UCL12lxLZXao_PSmW7GCBJ8w0Wcwxw7XuPgFtDfDjOQ&oe=62ABCF9D)
+
+## 🥞 Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=truonghienminh">
+</a>
