@@ -9,3 +9,4 @@ int main(){
     }
     cout << fixed << setprecision(2) << sum;
 }
+//code 10/11 chưa chắc đúng
