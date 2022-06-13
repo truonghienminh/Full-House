@@ -1,12 +1,15 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <iomanip>
+#include <math.h>
 using namespace std;
 
 int main(){
-    double n, sum = 0;
+    long long n;
+    double sum = 0;
     cin >> n;
-    for (int i = 1; i <= n; i++){
-        sum += 1.0/(i*(i+1));
+    for (long long i = 1; i <= n; i++){
+        sum += 1.0 / (i*(i+1));
     }
     cout << fixed << setprecision(2) << sum;
-}
-//code 10/11 chưa chắc đúng
+    return 0;
+}   
