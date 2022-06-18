@@ -20,10 +20,10 @@ int main(){
     sort(chan, chan + sochan);
     sort(le, le + sole);
     for (int i = 0; i < sochan; i++){
-        cout<<chan[i]<<" "; 
+        cout << chan[i] << " "; 
     } 
     for (int i = 0; i < sole; i++){
-        cout<<le[i]<<" ";
+        cout << le[i] << " ";
     } 
     return 0;
 }
