@@ -33,8 +33,7 @@ void in3(int n){
                 ++cnt;
                 n /= i;
             }
-            cout << i << "(" << cnt << ")"
-                 << " ";
+            cout << i << "(" << cnt << ")" << " ";
         }
     }
     if (n != 1)
