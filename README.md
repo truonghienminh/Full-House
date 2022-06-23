@@ -5,6 +5,7 @@ Thảo luận, đăng các bài giải về bài tập trên Full House. (C++ 05
     <img src="https://img.shields.io/github/last-commit/truonghienminh/Full-House?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub last commit"></a>
     <img src="https://img.shields.io/github/contributors/truonghienminh/Full-House?color=blue&logo=github&logoColor=gold&style=for-the-badge" alt="Github contributors">
+    <img src="https://img.shields.io/github/directory-file-count/truonghienminh/Full-House/code?logo=files&logoColor=white&style=for-the-badge">
     <h2>Nơi sưu tầm những lời giải của những thuật toán từ dễ đến khó.</h2>
 </div>
 
