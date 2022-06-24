@@ -10,7 +10,7 @@ void inp(){
 	cin >> n;
 }
 void xuly(){
-	int m = n%16;
+	int m = n % 16;
 	if (m < 10){
 		s.push(m + '0');
 	}else s.push(m + '7');
