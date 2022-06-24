@@ -29,6 +29,7 @@ bool check1(int n){
     if (s1 == s) return true;
     return false;
 }
+
 int main(){
     int a, b, count = 0;
     cin >> a >> b;
