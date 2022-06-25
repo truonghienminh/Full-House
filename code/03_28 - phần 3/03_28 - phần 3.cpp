@@ -21,4 +21,4 @@ int main(){
     cin >> x >> y >> z >> n;
     cout << solve(n, x, y, z);
     return 0;
-}
+} 
