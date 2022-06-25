@@ -20,4 +20,5 @@ int main(){
     int n, x, y, z;
     cin >> x >> y >> z >> n;
     cout << solve(n, x, y, z);
+    return 0;
 }
