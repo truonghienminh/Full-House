@@ -8,10 +8,10 @@ long long lcm(long long a, long long b){
 }
 
 long long solve(int n, int x, int y, int z){
-    long long temp = lcm(lcm(x, y), z);
-    long long m = (long long)pow(10, n - 1);
-    long long res = (m + temp - 1) / temp * temp;
-    if (res < (long long)pow(10, n))
+    long long temp = lcm(lcm(x, y), z); // BCNN của 3 số
+    long long m = (long long)pow(10, n - 1); // số tự nhiên nhỏ nhất có n chữ số
+    long long res = (m + temp - 1) / temp * temp;// công thức
+    if (res < (long long)pow(10, n))// kiểm tra nếu số tìm được vẫn có n chữ số
         return res;
     else return -1;
 }
