@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main(){
@@ -6,4 +7,5 @@ int main(){
     cin >> a >> b;
     cout << a + b << " " << a - b << " " << a * b << " ";
     cout << fixed << setprecision(2) << (double)a/b;
+    return 0;
 }
