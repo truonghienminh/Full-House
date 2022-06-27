@@ -31,14 +31,15 @@ bool check1(int n){
 }
 
 int main(){
-    int a, b, count = 0;
+    int a, b;
+    bool c = false;
     cin >> a >> b;
     for (int i = a; i <= b; i++){
         if (check1(i) && check2(i)){
             cout << i << " ";
-            count++;
+            c = true;
         }
     }
-    if (count == 0) cout << -1;
+    if (!c) cout << -1;
     return false;
 }
