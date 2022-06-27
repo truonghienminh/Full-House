@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define NMAX 1001
+
 int x,y;
 
 long long lt(long long a, long long b) {
