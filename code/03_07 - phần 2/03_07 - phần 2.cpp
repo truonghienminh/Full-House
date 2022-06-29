@@ -11,6 +11,19 @@ int sum(int n){
     return sum;
 }
 
+bool check(int n){
+    int tmp = n, sum1 = sum(n), sum2 = 0;
+    for (int i = 2; i <= sqrt(n); i++){
+        while (n % i == 0){
+            sum2 += sum(i);
+            n /= i;
+        }
+    }
+    if (tmp == n) return false;
+    if (n != 1) sum2 += sum(n);
+    return sum1 == sum2;
+}
+
 int main(){
     int t;
     cin >> t;
