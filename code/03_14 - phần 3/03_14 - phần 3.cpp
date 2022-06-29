@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
-#include <math.h>
+#include <cmath>
 using namespace std;
 
 bool check3(int n){
