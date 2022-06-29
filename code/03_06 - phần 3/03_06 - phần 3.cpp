@@ -2,7 +2,6 @@
 #include <cmath>
 using namespace std;
 
-#define NMAX 10001
 #define FASTINPUT();    ios::sync_with_stdio(0);\
                         cin.tie(0);\
                         cout.tie(0);
