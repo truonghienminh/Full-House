@@ -12,6 +12,7 @@ Thảo luận, đăng các bài giải về bài tập trên Full House. (C++ 05
 # 📝 Những lưu ý
 - Không được phá code của người khác. Mọi chỉnh sửa đều phải ghi description lại để mọi người nắm bắt kịp.
 - Code không phải lúc nào cũng hoàn hảo, vì thế nếu bạn có thấy bug hay cần chỉnh gì thì đừng ngần ngại ý kiến nhé.
+- Những ai chỉnh sửa thì không nên chạy code thẳng trong đây, vì khi chạy nó sẽ tạo ra file `.exe` sẽ khá mất thời gian để xóa đi. Repository này chỉ dùng để lưu trữ **mã nguồn**.
 
 # 💻 Ngôn ngữ lập trình
 <p align="left">
