@@ -6,7 +6,7 @@ int main(){
     cin >> n;
     bool check = 1;
     while (n > 0){
-        int s = n%10;
+        int s = n % 10;
         if (s % 2 == 0){
             check = 0;
             break;
