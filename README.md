@@ -1,12 +1,18 @@
 # Full House
 Thảo luận, đăng các bài giải về bài tập trên Full House. (C++ 05)
 <div align="center">
+    <a href="https://github.com/truonghienminh/Full-House">
+    <img src="https://img.shields.io/github/last-commit/truonghienminh/Full-House?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub last commit"></a>
+    <img src="https://img.shields.io/github/contributors/truonghienminh/Full-House?color=blue&logo=github&logoColor=gold&style=for-the-badge" alt="Github contributors">
+    <img src="https://img.shields.io/github/directory-file-count/truonghienminh/Full-House/code?logo=files&logoColor=white&style=for-the-badge">
     <h2>Nơi sưu tầm những lời giải của những thuật toán từ dễ đến khó.</h2>
 </div>
 
 # 📝 Những lưu ý
 - Không được phá code của người khác. Mọi chỉnh sửa đều phải ghi description lại để mọi người nắm bắt kịp.
 - Code không phải lúc nào cũng hoàn hảo, vì thế nếu bạn có thấy bug hay cần chỉnh gì thì đừng ngần ngại ý kiến nhé.
+- Những ai chỉnh sửa thì không nên chạy code thẳng trong đây, vì khi chạy nó sẽ tạo ra file `.exe` sẽ khá mất thời gian để xóa đi. Repository này chỉ dùng để lưu trữ **mã nguồn**.
 
 # 💻 Ngôn ngữ lập trình
 <p align="left">
@@ -21,7 +27,7 @@ Thảo luận, đăng các bài giải về bài tập trên Full House. (C++ 05
 </p>
 
 # 📄 Bảng mã ASCII (tham khảo)
-![ASCII](https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/284107618_160544899787132_7874766274491894778_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=MyRgEssVVyIAX_5yOjS&tn=kwkkNiUiFboet1cO&_nc_ht=scontent.fsgn2-4.fna&oh=00_AT-UCL12lxLZXao_PSmW7GCBJ8w0Wcwxw7XuPgFtDfDjOQ&oe=62ABCF9D)
+![ASCII](https://i.imgur.com/AK2oln4.jpg)
 
 ## 🥞 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">

@@ -23,4 +23,5 @@ int main(){
     int n, k;
     cin >> n >> k;
     cout << solve(n, k);    
+    return 0;
 }
