@@ -7,7 +7,7 @@ int main(){
     cin >> n;
     while (n--){
         cin >> x;
-       	if (x == 25) 
+       	if (x == 25)
        	    m += x;
         else{
             if (x - 25 > m){
