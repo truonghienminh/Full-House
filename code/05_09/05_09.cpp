@@ -22,7 +22,6 @@ void out(){
         int len = 1, j = i;
         while (a[j] < a[j + 1]){
             len += 1;
-
             j++;
         }
         i += j - i;
@@ -40,8 +39,7 @@ void out(){
         }
         q.push(a[j]);
         if (len == lenmax){
-            while (!q.empty())
-            {
+            while (!q.empty()){
                 cout << q.front() << " ";
                 q.pop();
             }
@@ -63,4 +61,5 @@ int main(){
         out();
         dem++;
     }
+    return 0;
 }
