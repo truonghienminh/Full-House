@@ -10,4 +10,5 @@ int main(){
     else
         total = n / 2;
     cout << total;
+    return 0;
 }
