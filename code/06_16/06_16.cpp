@@ -5,7 +5,6 @@ int main(){
     int n, m;
     cin >> n >> m;
     int arr1[n][m], arr2[n][m];
-    int ans[n][m];
     for (int i = 0; i < n; i++){
         for (int j = 0; j < m; j++){
             cin >> arr1[i][j];
