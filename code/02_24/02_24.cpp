@@ -9,7 +9,7 @@ int C(int k, int n) {
 }
 
 int main(){
-	long long n,m;
+	long long n, m;
 	cin >> n >> m; 
 	long long S = C(m - 1, n - 1); 
 	cout << S; 
