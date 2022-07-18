@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int x,y;
+int x, y;
 
 long long lt(long long a, long long b) {
     long long res = 1;
