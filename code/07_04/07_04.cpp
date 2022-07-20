@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     string s;
-    getline(cin,s);
+    getline(cin, s);
     ll a[1001]={};
     for(ll i = 0; i < s.size(); i++){
         a[s[i]]++;
