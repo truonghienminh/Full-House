@@ -1,28 +1,34 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 #define NMAX 10001
 stack<int> q;
+
 void inp(){
 	int x;
-	cin>>x;
+	cin >> x;
 	if (x == 1){
-		int y; cin>>y;
+		int y;
+		cin >> y;
 		q.push(y);
 	}
-	else if(x == 2){
+	else if (x == 2){
 		if (!q.empty())
-		q.pop();
+			q.pop();
 	}
-	else if(x==3){
+	else if (x == 3){
 		if (q.empty()){
-			cout<<"Empty!"<<endl;
+			cout << "Empty!" << endl;
 		}
-		else cout<<q.top()<<endl;
+		else
+			cout << q.top() << endl;
 	}
 }
+
 int main(){
-    int T; cin>>T;
-    while (T--){
-    inp();
-    }
+	int T;
+	cin >> T;
+	while (T--){
+		inp();
+	}
 }
