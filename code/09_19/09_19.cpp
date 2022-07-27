@@ -5,7 +5,6 @@ using namespace std;
 int solve(int arr[], int n, int k){
     int count = 0;
     sort(arr, arr + n);
-    bool check = 0;
     for (int i = 1; i < n; i++){
         if (!(arr[i] - arr[i - 1] <= k))
             count++;
