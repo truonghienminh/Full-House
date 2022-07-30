@@ -20,7 +20,6 @@ int main(){
         }
         sort(a, a + n);
         sort(b, b + n, greater<int>());
-        int res[n * 2];
         for (int i = 0; i < n; i++){
             v.push_back(a[i]);
             v.push_back(b[i]);
