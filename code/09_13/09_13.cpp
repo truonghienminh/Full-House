@@ -13,7 +13,7 @@ int main(){
         cin >> b[i];
     }
     sort(a, a + n);
-    sort(b, b+ m);
+    sort(b, b + m);
     int count = 0;
     for (int i = 0; i < n; i++){
         for (int j = 0; j < m; j++){
