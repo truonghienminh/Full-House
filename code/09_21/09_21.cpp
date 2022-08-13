@@ -13,8 +13,6 @@ int main(){
             cin >> arr[i];
         }
         sort(arr, arr + n);
-        bool check[n];
-        fill_n(check, n, false);
         int j = 0;
         if (n % 2 != 0){
             for (int i = n-1; i > n/2, j < n/2; i--){
